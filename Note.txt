@@ -1,0 +1,5 @@
+# to save the changes and commit at the same time
+git commit -a -m "commit message"
+
+# forcefully pushing the commited code
+git push -f origin main
